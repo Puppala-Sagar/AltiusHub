@@ -1,7 +1,7 @@
 # DSA folder contains 2 DSA codes
 ### solved code 1 in both python and java
 ### solved code 2 in java
-# README for Frontend Set 1 and Backend Set 1
+
 # Frontend Set 1
 ## Getting Started
 1. Clone the repository to your local machine.
